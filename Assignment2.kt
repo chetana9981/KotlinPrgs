@@ -1,4 +1,4 @@
-/*
+
 //1
 import java.util.Scanner
 
@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
     for (i in number)
         print("$i ")
 }
-*/
+
 
 //2
 import java.util.Scanner
@@ -54,7 +54,7 @@ fun main(args: Array<String>) {
     }
 }
 
-/*
+
 //3
 import java.util.Scanner
 fun main(args: Array<String>) {
@@ -143,4 +143,4 @@ fun main(args: Array<String>) {
     println("Sum of the array is : $sum")
 }
 
- */
+ 
